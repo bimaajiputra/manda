@@ -3,22 +3,22 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的姑娘",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日！",
-        "这两年来，我见过你",
-        "奇怪的样子",
-        "可爱的样子",
-        "生气的样子",
-        "都是我喜欢的样子",
-        "对了，礼物收全了吗？",
-        "今年要吃好好的",
-        "喂饱饱的",
-        "然后才有力气干活",
-        "和想我！",
-        "生日快乐~~",
+        "Give it to me",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "Gadis Tercinta",  // 同上...
+        "Hari ini adalah hari ulang tahunmu",
+        "Inilah yang kita lakukan bersama",
+        "Ulang tahun ketiga!",
+        "Aku telah melihatmu dua tahun terakhir ini",
+        "tampilan aneh",
+        "tampilan lucu",
+        "tampilan marah",
+        "Itulah yang aku suka",
+        "Ngomong-ngomong, apakah kamu sudah mengumpulkan semua hadiahnya?",
+        "Makan enak tahun ini",
+        "Beri makan dengan baik",
+        "Maka kamu akan mempunyai kekuatan untuk bekerja",
+        "Dan rindu aku!",
+        "Selamat ulang tahun~~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
