@@ -50,14 +50,14 @@ var config = {
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Mulai",
-        play: "memutar musik",
-        bannar_coming: "Dapatkan warna",
-        balloons_flying: "Sepertinya ada yang kurang",
-        cake_fadein: "Kue?",
-        light_candle: "Lilin?",
-        wish_message: "Selamat ulang tahun~",
-        story: "A MESSAGE FOR YOU"
+        turn_on: "Heloooo",
+        play: "Memutar Musik yuk",
+        bannar_coming: "Mulai yaa..",
+        balloons_flying: "Mau lagi kejutannya??",
+        cake_fadein: "Mau Kue?",
+        light_candle: "Mau Hidupin Lilinnya?",
+        wish_message: "Yeeeee... Selamat ulang tahun~",
+        story: "Ini Ucapan Abi untuk Bunda juga Khaira"
     },
 
     // 结束语
