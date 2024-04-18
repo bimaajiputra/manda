@@ -51,15 +51,15 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "Mulai",
-        play: "上音乐",
-        bannar_coming: "搞点颜色",
-        balloons_flying: "好像还少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐～",
+        play: "memutar musik",
+        bannar_coming: "Dapatkan warna",
+        balloons_flying: "Sepertinya ada yang kurang",
+        cake_fadein: "Kue?",
+        light_candle: "Lilin?",
+        wish_message: "Selamat ulang tahun~",
         story: "A MESSAGE FOR YOU"
     },
 
     // 结束语
-    loveText: '爱你的X先生~'
+    loveText: 'I See U~'
 };
