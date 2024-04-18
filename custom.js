@@ -1,5 +1,5 @@
 // 霸都丶傲天 2019.10.10
-$(function () {
+/*$(function () {
     let dom = document.createElement('span');
     config.texts.forEach(function (item) {
         let p = document.createElement('p');
@@ -13,7 +13,18 @@ $(function () {
         dom.appendChild(p);
     });
     $('#texts-container').append(dom.innerHTML);
+});*/
+
+$(function () {
+    let dom = document.createElement('span');
+    config.texts.forEach(function (item) {
+        let p = document.createElement('p');
+        p.textContent = item; // Mengganti innerHTML menjadi textContent
+        dom.appendChild(p);
+    });
+    $('#texts-container').append(dom.innerHTML);
 });
+
 
 $(function () {
     for (let k in config.desc) {
